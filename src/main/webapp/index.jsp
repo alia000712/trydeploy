@@ -36,7 +36,7 @@
             <h1><%="Your are entering home zone.<br><br> Hai my name is "+session.getAttribute("MyName")+
                     "<br><br>Click button above and below to see more information about me.<br>"%></h1><br/>
             <a class="click" href="hello-servlet">Click me</a>
-            <a class="click" href="MyselfServlet">Myself</a>
+            <a class="click" href="MyselfServlet">Myself (alia)</a>
             <a class="click" href="MyStudentServlet">My Student</a>
             <a class="click" href="MyFamilyServlet">My Family</a>
         </div>
